@@ -29,7 +29,8 @@ url: "https://Fable-Frontiers.github.io/Story-Starters" # the base hostname & pr
 github_username:  Fable-Frontiers
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: amitmerchant1990/reverie
 plugins:
   - jekyll-feed
 
